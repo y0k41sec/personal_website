@@ -23,7 +23,7 @@ export default function App() {
         <script src="https://cdn.tailwindcss.com"></script>
         <Links />
       </head>
-      <body>
+      <body class="bg-sky-600">
         <Outlet />
         <ScrollRestoration />
         <Scripts />
