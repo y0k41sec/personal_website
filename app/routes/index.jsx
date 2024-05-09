@@ -20,6 +20,9 @@ export default function Index() {
         <a class="flex-1 font-semibold" href="https://github.com/y0k41sec">
           GitHub
         </a>
+        ><a href="mailto:jonathan@jogoya.xyz">
+          Email
+        </a>
       </div>
 
       <ul class="my-8 text-center w-2/3 mx-auto space-y-4">
