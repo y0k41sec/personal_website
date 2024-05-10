@@ -21,7 +21,7 @@ export default function Index() {
           GitHub
         </a>
         
-        <a href="mailto:jonathan@jogoya.xyz">
+        <a class="flex-1 font-semibold" href="mailto:jonathan@jogoya.xyz">
           Email
         </a>
       </div>
